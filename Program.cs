@@ -1,7 +1,5 @@
 ﻿using DesafioPOO.Models;
 
-// TODO: Realizar os testes com as classes Nokia e Iphone
-
 Smartphone Nokia = new Nokia ("123456789", "IMEI12345", "ModeloNokiaX", "64GB");
 
 Console.WriteLine ("Teste para o aplicativo Nokia Tijolão!");
